@@ -1,2 +1,2 @@
 # pytorch_training
-journey to fluency in PyTorch
+journey to fluency in PyTorch.
